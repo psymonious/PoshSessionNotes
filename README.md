@@ -4,7 +4,7 @@ Notes from the PowerShell sessions
 ## Session 1 - Introduction
 - [Session Notes](https://github.com/psymonious/PoshSessionNotes/blob/master/session1.ps1)
 
-## Session 2 - Te fun begins
+## Session 2 - The fun begins
 - [Session Notes](https://github.com/psymonious/PoshSessionNotes/blob/master/session2.ps1)
 
 # Exercises
