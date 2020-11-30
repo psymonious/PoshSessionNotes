@@ -1,5 +1,5 @@
 # PowerShell exercises
-&#x1F4A1; Througout all the exercises use '*.GetType*' and '*Get-Member*' to see what you are working with &    #x1F4A1;
+&#x1F4A1; Througout all the exercises use '*.GetType*' and '*Get-Member*' to see what you are working with &#x1F4A1;
 
 ## Session 1 - Introduction
 - [Session Notes](https://github.com/psymonious/PoshSessionNotes/blob/master/session1.ps1)
