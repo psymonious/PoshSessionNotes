@@ -11,8 +11,9 @@ Notes from the PowerShell sessions
 &#x1F4A1; Througout all the exercises use '*.GetType*' and '*Get-Member*' to see what you are working with &#x1F4A1;
 
 ## Environment
-- List and get used to the default variables
-- Explore the output of Get-PSDrive
+- open PowerShell (Admin not needed)
+- List and get used to the default variables of the current session
+- Explore the output of '*Get-PSDrive*'
 - Find a way to access the environment variables
 
 ## Files - Level 1
