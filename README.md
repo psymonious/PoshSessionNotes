@@ -8,7 +8,11 @@ Notes from the PowerShell sessions
 - [Session Notes](https://github.com/psymonious/PoshSessionNotes/blob/master/session2.ps1)
 
 # Exercises
-&#x1F4A1; Througout all the exercises use '*.GetType*' and '*Get-Member*' to see what you are working with &#x1F4A1;
+&#x1F4A1; Througout all the exercises use '*.GetType()*' and '*Get-Member*' to see what you are working with &#x1F4A1;
+
+# Helpful links
+- [PowerShell Docs](https://docs.microsoft.com/en-us/powershell/module/cimcmdlets/?view=powershell-5.1)
+- [About Pages](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about?view=powershell-5.1)
 
 ## Environment
 - open PowerShell (Admin not needed)
